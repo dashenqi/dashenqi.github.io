@@ -1,5 +1,5 @@
 
-Q Q联系：712016131 [![通过QQ联系大神奇][![logo](/imgs/qq.png)](https://wpa.qq.com/msgrd?v=3&uin=712016131&site=qq&menu=yes)  
+Q Q联系：712016131 [![QQ联系](/imgs/qq.png)](https://wpa.qq.com/msgrd?v=3&uin=712016131&site=qq&menu=yes)  
 
 微信联系：wbz25678  
 
