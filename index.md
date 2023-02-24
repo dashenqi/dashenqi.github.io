@@ -6,3 +6,5 @@
   
 ## 天寻计划
 10年资源站长传授找资源技术、方法、来源渠道、工具插件的绝活
+
+![dashenqi联系方式](/imgs/contactus.png "dashenqi")
