@@ -1,6 +1,6 @@
 
 
-Q Q联系：712016131 <a href ="[超链接地址](https://wpa.qq.com/msgrd?v=3&uin=712016131&site=qq&menu=yes)"><img src="/imgs/qq.png"></a>  
+Q Q联系：712016131 <a href ="https://wpa.qq.com/msgrd?v=3&uin=712016131&site=qq&menu=yes"><img src="/imgs/qq.png"></a>  
 
 微信联系：wbz25678  
 
